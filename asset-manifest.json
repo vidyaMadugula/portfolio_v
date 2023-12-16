@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5880fc3e.css",
+    "main.js": "/static/js/main.d3a2836f.js",
+    "static/media/youtube.png": "/static/media/youtube.5b9a4940efeb8042f4f6.png",
+    "static/media/travel.jpg": "/static/media/travel.2e4b2fe3626260d9c6e8.jpg",
+    "static/media/Vidya.jpg": "/static/media/Vidya.76e55c55f230ae648c2e.jpg",
+    "index.html": "/index.html",
+    "main.5880fc3e.css.map": "/static/css/main.5880fc3e.css.map",
+    "main.d3a2836f.js.map": "/static/js/main.d3a2836f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5880fc3e.css",
+    "static/js/main.d3a2836f.js"
+  ]
+}
